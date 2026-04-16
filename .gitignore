@@ -13,5 +13,5 @@ ENV/
 
 .env
 
-data/insurance.csv
+insurance.csv
 *.csv
