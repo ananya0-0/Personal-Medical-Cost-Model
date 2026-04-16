@@ -4,14 +4,14 @@ __pycache__/
 *.so
 .Python
 
+# Virtual Environment
 venv/
 env/
-ENV/
 
-.vscode/
-.idea/
-
-.env
-
+# Dataset files
 insurance.csv
 *.csv
+
+# IDE
+.vscode/
+.idea/
