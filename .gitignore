@@ -12,3 +12,6 @@ ENV/
 .idea/
 
 .env
+
+data/insurance.csv
+*.csv
